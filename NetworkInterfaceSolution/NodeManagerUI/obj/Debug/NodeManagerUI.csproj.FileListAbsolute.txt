@@ -1,0 +1,57 @@
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\NodeManagerUI.exe.config
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\NodeManagerUI.exe
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\NodeManagerUI.pdb
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\MahApps.Metro.dll
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\ServiceManager.dll
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\System.Windows.Interactivity.dll
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\ServiceManager.pdb
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\MahApps.Metro.pdb
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\bin\Debug\MahApps.Metro.xml
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\NodeManagerUI.csprojResolveAssemblyReference.cache
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\MainWindow.g.cs
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\OptionsWindow.g.cs
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\App.g.cs
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\NodeManagerUI_MarkupCompile.cache
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\NodeManagerUI_MarkupCompile.lref
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\App.baml
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\MainWindow.baml
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\OptionsWindow.baml
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\NodeManagerUI.g.resources
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\NodeManagerUI.Properties.Resources.resources
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\NodeManagerUI.csproj.GenerateResource.Cache
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\NodeManagerUI.exe
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagerUI\obj\Debug\NodeManagerUI.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\NodeManagerUI.exe.config
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\NodeManagerUI.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\NodeManagerUI.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\ServiceManager.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\System.Windows.Interactivity.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\ServiceManager.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\MahApps.Metro.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\MahApps.Metro.xml
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\NodeManagerUI.csprojResolveAssemblyReference.cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\MainWindow.g.cs
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\OptionsWindow.g.cs
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\App.g.cs
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\NodeManagerUI_MarkupCompile.cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\NodeManagerUI_MarkupCompile.lref
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\App.baml
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\MainWindow.baml
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\OptionsWindow.baml
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\NodeManagerUI.g.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\NodeManagerUI.Properties.Resources.resources
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\NodeManagerUI.csproj.GenerateResource.Cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\NodeManagerUI.exe
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\NodeManagerUI.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagerUI\obj\Debug\GeneratedInternalTypeHelper.g.cs

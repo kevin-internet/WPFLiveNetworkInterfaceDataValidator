@@ -1,0 +1,13 @@
+F:\backup\projects\Jobs\intraedge\case studies\NodeManager_Problem\NodeManagement\bin\Debug\ServiceManager.dll
+F:\backup\projects\Jobs\intraedge\case studies\NodeManager_Problem\NodeManagement\bin\Debug\ServiceManager.pdb
+F:\backup\projects\Jobs\intraedge\case studies\NodeManager_Problem\NodeManagement\obj\Debug\ServiceManager.dll
+F:\backup\projects\Jobs\intraedge\case studies\NodeManager_Problem\NodeManagement\obj\Debug\ServiceManager.pdb
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagement\bin\Debug\ServiceManager.dll
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagement\bin\Debug\ServiceManager.pdb
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagement\obj\Debug\ServiceManager.dll
+F:\backup\projects\Jobs\intraedge\case studies\case studies submitted\CaseStudyNodeManager_KevinBlake\NodeManager_Problem\NodeManagement\obj\Debug\ServiceManager.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagement\obj\Debug\NodeManagement.csprojResolveAssemblyReference.cache
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagement\obj\Debug\ServiceManager.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagement\obj\Debug\ServiceManager.pdb
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagement\bin\Debug\ServiceManager.dll
+F:\backup\myprojectfolder\VisualStudioWorkspace\NetworkInterfaceSolution\NodeManagement\bin\Debug\ServiceManager.pdb
