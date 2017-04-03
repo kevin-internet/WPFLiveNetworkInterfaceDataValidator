@@ -19,8 +19,8 @@
             <Button x:Name="btnAdd" Content="Add" Click="Add_Click" Margin="0,0,0,4"/>
             <Button x:Name="btnRemove" Content="Remove" Click="Remove_Click" Margin="0,0,0,4"/>
             <Button x:Name="btnOptions" Content="Options" Click="Options_Click" Margin="0,0,0,4"/>
-            <Button x:Name="btnSimulate" Content="Simulate On" Click="Simulate_Click" Margin="0,0,0,4"/>
-            <Button x:Name="btnSimulateOff" Content="Simulate Off" Click="SimulateOff_Click" Margin="0,0,0,4"/>
+            <Button x:Name="btnSimulate" Content="Turn Live Data On" Click="Simulate_Click" Margin="0,0,0,4"/>
+            <Button x:Name="btnSimulateOff" Content="Turn Live Data Off" Click="SimulateOff_Click" Margin="0,0,0,4"/>
         </StackPanel>
         <DataGrid x:Name="dataGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="False">
             <DataGrid.Columns>

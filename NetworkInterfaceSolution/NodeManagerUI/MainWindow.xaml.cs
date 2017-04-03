@@ -22,6 +22,7 @@ namespace NodeManagerUI
             InitializeComponent();
 
             btnAdd.IsEnabled = true;
+            btnRemove.IsEnabled = false;
             btnOptions.IsEnabled = false;
             btnSimulate.IsEnabled = false;
             btnSimulateOff.IsEnabled = false;
@@ -67,7 +68,7 @@ namespace NodeManagerUI
                 }
 
                 // code to update UI once previousTask is finished
-                btnAdd.IsEnabled = true;
+                //btnAdd.IsEnabled = true;
                 btnOptions.IsEnabled = true;
                 btnSimulate.IsEnabled = true;
             },
